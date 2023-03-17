@@ -458,6 +458,7 @@
 - fthomas/refined
 - fthomas/singleton-ops
 - fthomas/status-page
+- fwbrasil/kyo
 - fullfacing/akkaMonixSttpBackend
 - fullfacing/keycloak4s
 - fun-stack/example
